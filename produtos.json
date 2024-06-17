@@ -1,0 +1,14 @@
+{
+  "produtos": [
+    {
+      "id": "2",
+      "nome": "iPhone 15 XS",
+      "valor": 7000
+    },
+    {
+      "id": null,
+      "nome": "iPad",
+      "valor": 8000
+    }
+  ]
+}
